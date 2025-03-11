@@ -1,0 +1,52 @@
+body {
+    background: rgba(36, 3, 31, 0.253);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.post img {
+    width: 60%;
+   
+   
+}
+.icono-html {
+    font-size: 30px;
+    margin-top: 15px;
+    margin-right: 5px;
+
+}
+.icono-html-2 {
+    font-size: 30px;
+    margin: 15px 290px 0px;
+
+}
+.icono-html-3 {
+    font-size: 30px;
+
+}
+.icono-html-4 {
+    font-size: 30px;
+
+}
+.icono-html-5 {
+    font-size: 30px;
+
+}
+.icono-html-6 {
+    font-size: 30px;
+    margin: 0px 290px 0px;
+
+}
+div.post {
+    display: flex;
+    flex-direction: column;
+
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+}
+.header-1{
+    display: flex;
+}
